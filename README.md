@@ -2,8 +2,6 @@
 
 # QuickTech IT 🚀
 
-![QuickTech Banner](https://via.placeholder.com/1200x400/0d1117/00d4ff?text=QuickTech+IT+Solutions+Building+the+Future+with+Code)
-
 ### **Innovating Digital Solutions | Transforming Ideas into Reality**
 
 [![Website](https://img.shields.io/badge/Website-Visit-blue?style=for-the-badge&logo=google-chrome)](https://quicktechit.com)
@@ -63,25 +61,6 @@
 | **QuantumML** | 🔄 In Development | ⭐ 189 |
 | **AR Commerce** | 🟡 Beta | ⭐ 167 |
 
-## 📊 GitHub Stats
-
-<div align="center">
-
-![QuickTech GitHub Stats](https://github-readme-stats.vercel.app/api?username=quicktechit&show_icons=true&theme=radical&hide_border=true)
-
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=quicktechit&layout=compact&theme=radical&hide_border=true)
-
-![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=quicktechit&theme=radical&hide_border=true)
-
-</div>
-
-## 🏆 Our Achievements
-
-<div align="center">
-
-[![trophy](https://github-profile-trophy.vercel.app/?username=quicktechit&theme=radical&no-frame=true&row=2&column=4)](https://github.com/ryo-ma/github-profile-trophy)
-
-</div>
 
 ## 🤝 Let's Collaborate
 
@@ -101,28 +80,12 @@ We're always open to exciting partnerships and challenging projects!
 
 | Contact Method | Details |
 |---------------|---------|
-| **📧 Email** | contact@quicktechit.com |
-| **🌐 Website** | [www.quicktechit.com](https://quicktechit.com) |
-| **📱 Phone** | +1 (555) 123-4567 |
-| **🏢 Address** | Silicon Valley, CA |
+| **📧 Email** | quicktechitltd@gmail.com |
+| **🌐 Website** | [www.quicktechitltd.com](https://quicktechitltd.com) |
+| **📱 Phone** | +880 1993-335989 |
+| **🏢 Address** | Mirpur 10 , Dhaka |
 
 </div>
 
-## 📰 Latest Blog Posts
-<!-- BLOG-POST-LIST:START -->
-- [Microservices Architecture: Best Practices for 2024](https://blog.quicktechit.com/microservices-best-practices)
-- [The Future of AI in Enterprise Applications](https://blog.quicktechit.com/ai-enterprise-future)
-- [Building Scalable React Applications](https://blog.quicktechit.com/scalable-react-apps)
-<!-- BLOG-POST-LIST:END -->
-
----
-
-<div align="center">
-
-### **⭐ Star our repositories if you find them useful!**
-
-![Visitor Count](https://komarev.com/ghpvc/?username=quicktechit&color=blue&style=flat-square)
-
-**"Innovation distinguishes between a leader and a follower."** - Steve Jobs
 
 </div>
